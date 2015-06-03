@@ -1,3 +1,6 @@
+// Guled
+// 6/2/15
+
 // Store calculator components
 var $display = $(".output");
 var operators = ["+","-","x","/"];
